@@ -11,7 +11,7 @@ avatar: "https://i.imgur.com/zlveuRu.jpeg"
 # Discord custom nickname set above
 displayName: "Garic"
 # Username on discord, follows the case you set, won't track your Discord account e.g. "Domin#2874" or "dominnya"
-username: "garcia"
+username: "Garcia"
 # Discord status, can be "online-mobile", "online", "idle", "do-not-disturb", "invisible" or "streaming"
 status: "online"
 # Badges next to avatar, some badges need metadata such as "date" or "username"
@@ -23,7 +23,7 @@ badges:
   # "nitro":
   #   date: "13 May 2020"
   "legacy-username":
-    username: "Domin#2874"
+    username: "Garcia#2874"
 # Roles in profile: Key name stands for the label, value is the color
 roles:
   "BOT CREATOR": "#006f72"
